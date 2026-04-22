@@ -3,34 +3,40 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-The premier web-based tool yielding thousands of creative, organized words for party-style Imposter social deduction games.
+The premier web-based engine yielding thousands of creative, balanced word pairs for professional-grade Imposter social deduction games and team-building events.
 
 ---
 
 ## 🚀 Live Demo & Platform
-Generate words for your party live:  
+Generate optimized words for your party or event live:  
 👉 **[https://impostergamewords.com/](https://impostergamewords.com/)**
 
 ---
 
-## 🛠️ Technical Overview
-This repository drives the categorization and randomization logic of the **Imposter Game Words Generator**. Built to instantly serve social gameplay:
+## 📖 Game Strategy & Social Deduction Analysis
+For an expert breakdown of the 2026 party game trends, including the "Category First" rule, mirroring techniques, and the mathematics of balanced word pairs, refer to our official strategic briefing:  
+📑 **[Mastering the Imposter Word Game: Pro Strategies and 2026 Party Trends](https://telegra.ph/Mastering-the-Imposter-Word-Game-Pro-Strategies-and-2026-Party-Trends-04-22)**
 
-* **Categorized Lexicon DB**: A curated and balanced database of 1000+ terms separated by difficulty and demographic (couples, kids, party).
-* **Instantaneous Retrieval**: A lightweight filtering system designed for quick word swaps mid-game.
-* **App-Free Accessibility**: Designed as a Progressive Web App (PWA) equivalent, bypassing app store installs.
+---
+
+## 🛠️ Technical Overview
+This repository drives the categorization and randomization logic of the **Imposter Game Words Generator**. Built to instantly serve high-stakes social gameplay:
+
+* **Categorized Lexicon Engine**: A curated database of 1000+ terms architected by audience (Couples, Kids, Tech, Seasonal) and bluff difficulty.
+* **Balanced Pairing Algorithm**: Logic designed to serve word pairs that are semantically similar enough to maintain deception while allowing for civilian deduction.
+* **App-Free PWA Architecture**: A lightweight, browser-based Progressive Web App designed to bypass app store friction for immediate group play.
 
 ### Key Features
-- **Dynamic Filtering**: Select specific lists based on group maturity or inside jokes.
-- **One-Tap Regeneration**: Frictionless UI mapped for on-the-go party environments.
-- **Responsive Aesthetics**: Bright, engaging styling adapted perfectly for mobile screens.
+- **Dynamic Audience Filtering**: Instantly toggle between family-safe prompts and spicy date-night "Couples" modes.
+- **Zero-Latency Regeneration**: High-performance JavaScript filtering for frictionless word swaps in fast-paced party environments.
+- **Unblocked Browser Delivery**: Optimized for cross-platform compatibility (Mobile, Tablet, Desktop) without required downloads.
 
 ---
 
 ## 📊 Core Methodology
-1. **Storage Layer**: Organizes thematic arrays of viable Imposter pairings.
-2. **Filtering Layer**: Limits the word pool based on user toggle states.
-3. **Randomization Layer**: Quickly serves optimal pairs to the DOM.
+1. **Thematic Storage Layer**: Organizes expansive arrays of viable, tested Imposter pairings into relational buckets.
+2. **Contextual Filtering Layer**: Filters the word pool based on real-time user demographic selection and context tags.
+3. **Randomization & Render Layer**: Serves optimal, non-repeating pairs directly to the DOM with one-tap efficiency.
 
 ---
 
@@ -40,5 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## ✉️ Contact & Support
-Developed by **DevDouble2**. For business inquiries, please visit our official site:  
-**[Imposter Game Words](https://impostergamewords.com/)**
+Developed by **DevDouble2**. For business inquiries or custom deck requests, please visit our official site:  
+**[Official Imposter Game Words Hub](https://impostergamewords.com/)**
